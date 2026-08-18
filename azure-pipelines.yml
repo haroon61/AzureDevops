@@ -29,5 +29,5 @@ steps:
 
   inputs:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
-    ArtifactName: 'warfile'
+    ArtifactName: 'warfileee'
     publishLocation: 'Container'
